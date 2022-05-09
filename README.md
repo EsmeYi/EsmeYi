@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on [LLVM](https://github.com/llvm). My Phabricator [page](https://reviews.llvm.org/p/Esme/).
+- 🌱 I’m currently learning [RUST](https://github.com/rust-lang/rust)
+
 [![Esme's GitHub stats](https://github-readme-stats.vercel.app/api?username=EsmeYi)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
